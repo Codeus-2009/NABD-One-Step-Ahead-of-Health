@@ -1,0 +1,19 @@
+Hello, and welcome to NABD: One Step Ahead of Health.
+
+NABD is a youth-focused health-literacy prototype. It aims to make reliable basic health information easier to understand and help young people think about an appropriate next step when they have a concern.
+
+The homepage introduces four main ideas: guided reflection, health learning, prevention, and responsible design. The project is designed to support awareness. It does not replace a doctor or other qualified health professional.
+
+NABD also includes accessibility options. Here, I can change the interface language, increase text size, and turn on high contrast. The prototype currently offers English, Arabic, French, and Spanish interface options. Some translations still need fluent human review.
+
+Now, let us look at the interactive demonstration. The user can choose how long a concern has been happening and how much it affects usual activities. For this example, I will use fictional, non-identifying answers. The optional note is not required.
+
+After submitting, NABD displays a simple guidance message based on transparent, rule-based logic. This is not artificial intelligence, a diagnosis, or a medical assessment. It cannot identify or rule out a disease.
+
+The prototype also includes a caution path. If a user indicates that they are seriously unwell or that a symptom is rapidly worsening, NABD advises them not to rely on the prototype and to contact appropriate professional or emergency services.
+
+Beyond the guided demo, the website includes short learning topics, healthy-habit information, and areas to explore. It also explains privacy and the limits of the current prototype. In this local version, form answers are not sent to a server.
+
+The next development steps include inclusive user testing, expert review of health content and translations, and further privacy and security assessment. Any future AI feature would need a secure design and careful evaluation.
+
+NABD's goal is simple: help young people become more informed, recognize when they need support, and take one responsible step ahead.
